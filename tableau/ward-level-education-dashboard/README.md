@@ -62,10 +62,8 @@ The key objectives of this dashboard are to:
 ---
 
 ## 🖼️ Dashboard Preview
-*(Add dashboard screenshots in the images folder and link them here)*
 
 ```markdown
 ![Education Dashboard Overview](images/dashboard_overview.png)
-![Ward Level Distribution](images/ward_level_map.png)
-![Transport & School Type Analysis](images/transport_school_type.png)
+![Ward Level Distribution](images/ward_level_filter.png)
 
