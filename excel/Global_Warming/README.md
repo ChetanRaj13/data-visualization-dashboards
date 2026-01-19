@@ -43,6 +43,12 @@ The dashboard tells a **data-driven story** on how people are surviving and adap
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](images/Screenshot 2026-01-19 231648.png)
+
+---
+
 ## 📊 Dashboard Features
 
 ### 🔹 Current Condition of People
