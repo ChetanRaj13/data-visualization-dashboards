@@ -1,3 +1,20 @@
+# Data Visualisation Dashboards
+
+This repository contains a curated collection of **data visualisation dashboards** created using **Tableau, Power BI, and Microsoft Excel**.  
+Each dashboard focuses on transforming raw data into **clear, actionable insights**, addressing real-world problems across **business, sustainability, climate change, and development studies**.
+
+The projects demonstrate skills in **data analysis, visual storytelling, dashboard design, and interactive reporting**.
+
+---
+
+## 📊 Tools & Platforms Used
+- **Tableau** – Interactive dashboards and business analytics
+- **Power BI** – Data modelling, DAX, and policy-focused analysis
+- **Microsoft Excel** – Pivot tables, slicers, and dynamic dashboards
+
+---
+
+## 📁 Repository Structure
 
 Each dashboard folder contains:
 - A **project-specific README**
@@ -21,7 +38,7 @@ Each dashboard folder contains:
 
 #### 🎓 Ward-Level Education Dashboard (Kochi, India)
 - Built using **primary fieldwork data**
-- Analyzes education infrastructure, access, gender composition, and quality
+- Analyses education infrastructure, access, gender composition, and quality
 - Ward-level spatial and comparative analysis
 
 📁 Path: `tableau/ward-level-education-dashboard/`
@@ -41,7 +58,7 @@ Each dashboard folder contains:
 ### 🔹 Excel Dashboard
 #### 🌍 People Surviving Global Warming
 - Excel-based dashboard built using pivot tables and slicers
-- Analyzes household assets, living conditions, and climate change impacts
+- Analyses household assets, living conditions, and climate change impacts
 - Academic group project following structured assignment guidelines
 
 📁 Path: `excel/Global_Warming/`
