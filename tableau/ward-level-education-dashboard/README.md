@@ -63,7 +63,10 @@ The key objectives of this dashboard are to:
 
 ## 🖼️ Dashboard Preview
 
-```markdown
+### Education Dashboard Overview
 ![Education Dashboard Overview](images/dashboard_overview.png)
+
+### Ward Level Distribution
 ![Ward Level Distribution](images/ward_level_filter.png)
+
 
