@@ -40,7 +40,7 @@ A new restaurant should primarily focus on **Indian cuisine**, while also offeri
 ---
 
 ### 💰 Average Cost for Two (Bar Chart)
-![Average Cost for Two](images/Screenshot%202026-01-19%20202026.png)
+![Average Cost for Two](images/Screenshot%202026-01-19%20202059.png)
 
 This chart compares the **average cost for two people** across restaurant types.
 - Bars are the most expensive
@@ -53,7 +53,7 @@ Restaurant type strongly influences pricing. Premium dining experiences charge m
 ---
 
 ### ⭐ Rating Distribution (Histogram)
-![Rating Distribution](images/Screenshot%202026-01-19%20202059.png)
+![Rating Distribution](images/Screenshot%202026-01-19%20202026.png)
 
 The rating distribution follows a **near-normal pattern**, with most restaurants clustered between **3.6 and 3.9**.
 
