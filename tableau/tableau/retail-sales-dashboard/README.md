@@ -1,31 +1,117 @@
 # Retail Sales Dashboard (Tableau)
 
-Imagine you’re an entrepreneur looking to open a food service start-up in Bangalore. Before executing your plan, you’d naturally have a few questions. To address these, we created a dashboard using Zomato Bangalore data from Kaggle to help you find answers and make informed decisions.
+## 📌 Project Overview
+Imagine you are an entrepreneur planning to open a **food service start-up in Bangalore**.  
+Before investing, you would naturally want to understand customer preferences, pricing expectations, and ordering behaviour.
 
-## Cuisine Preference (Tree Map)
+This interactive **Tableau dashboard** was created using **Zomato Bangalore restaurant data (Kaggle)** to help answer such business questions and support **data-driven decision-making** for new food ventures.
 
-Firstly, what cuisine should your eatery offer? What do people in Bangalore prefer?
-For this, we used a tree map, where the size of each block indicates the share of orders across different cuisines. From the chart, we can see that South Indian cuisine dominates, followed by North Indian, and then others. From this, we can infer that you should start with Indian cuisine while also incorporating options like fast food and beverages.
+---
 
-## Average Cost of Two ( Bar Chart )
+## 🎯 Business Questions Addressed
+- What cuisines are most popular in Bangalore?
+- How does pricing vary across restaurant types?
+- What rating range do most restaurants fall into?
+- Do customers prefer dine-in or online ordering?
+- Is higher rating associated with higher pricing?
+- How important is table booking behaviour?
 
-This graph shows the average cost per person for two people across different restaurant types. Bar are the most expensive, followed by casual dining and cafes and then quick bites, sweet shops come in the affordable range usually below 250. From here it is know restaurant type strongly affects cost. Premium experiences like bars and casual dining charge higher prices, while quick, everyday options like sweet shops or takeaway services are much cheaper.
+---
 
-## Rating Distribution (Histogram)
+## 🛠️ Tool & Data
+- **Tool:** Tableau  
+- **Dataset:** Zomato Bangalore dataset (Kaggle)  
+- **Analysis Type:** Exploratory & business-focused data visualization
 
-Finally, looking at the rating distribution, we see a normal-like pattern, with most ratings concentrated between 3.6 and 3.9. This suggests that customers generally perceive restaurants as average, and that competition is strong within this range. Achieving ratings above this band could help your start-up stand out.
+---
 
-## Table Booking ( Pie Chart )
+## 📊 Dashboard Components & Insights
 
-This chart shows whether customers usually book tables in advance. A large majority of orders in a restaurant are placed without table booking (almost 90–95%). Only a very small fraction of people actually use the table booking option. Most customers prefer walk-in or online ordering rather than making reservations. This could be due to many reasons, like restaurants not encouraging table bookings, or customers not finding it necessary except for premium dining experiences.
+### 🍽️ Cuisine Preference (Tree Map)
+![Cuisine Preference](images/Dashboard%201.png)
 
-## Order Preference (Pie Chart)
+The treemap shows the distribution of restaurant orders by cuisine type.
+- **South Indian cuisine dominates**, followed by North Indian cuisine
+- Other cuisines such as fast food and beverages also have notable demand
 
-Next, let’s look at consumer behaviour. Do people prefer ordering online or dining out?
-Here, online orders dominate, clearly showing that customers prefer food delivery at home. From this, we can infer that you could initially start with a cloud kitchen before opening a physical restaurant, allowing you to build capital and a customer base first.
+**Insight:**  
+A new restaurant should primarily focus on **Indian cuisine**, while also offering fast food or beverage options to capture a wider audience.
 
-## Rating vs Price ( Scatter Plot )
+---
 
-This chart illustrates the relationship between restaurant ratings and the average cost for two people. The scatter plot reveals a moderate positive correlation: as a restaurant's rating increases, the cost for two people tends to rise. Most restaurants fall in the 3.5 to 4.5 rating range, with average costs clustered around ₹300–₹600.
+### 💰 Average Cost for Two (Bar Chart)
+![Average Cost for Two](images/Screenshot%202026-01-19%20202026.png)
 
-Here, the darkness of the circles indicates the number of ratings; the darker the circle, the more ratings it has, indicating that more people are going or ordering from that restaurant.Overall, the chart highlights that higher-rated restaurants are usually associated with higher costs.
+This chart compares the **average cost for two people** across restaurant types.
+- Bars are the most expensive
+- Casual dining and cafés fall in the mid-range
+- Quick bites and sweet shops are the most affordable (generally below ₹250)
+
+**Insight:**  
+Restaurant type strongly influences pricing. Premium dining experiences charge more, while quick-service models cater to price-sensitive customers.
+
+---
+
+### ⭐ Rating Distribution (Histogram)
+![Rating Distribution](images/Screenshot%202026-01-19%20202059.png)
+
+The rating distribution follows a **near-normal pattern**, with most restaurants clustered between **3.6 and 3.9**.
+
+**Insight:**  
+Competition is intense in this rating band. Achieving ratings above this range can help a new restaurant stand out.
+
+---
+
+### 🪑 Table Booking Preference (Pie Chart)
+Most orders are placed **without table booking (around 90–95%)**.
+Only a small fraction of customers use advance reservations.
+
+**Insight:**  
+Table booking is not a critical feature for most restaurants, except for premium dining experiences.
+
+---
+
+### 🛵 Order Preference – Online vs Dine-In (Pie Chart)
+Online orders clearly dominate over dine-in.
+
+**Insight:**  
+Entrepreneurs can consider starting with a **cloud kitchen model**, building customer base and capital before investing in a physical restaurant.
+
+---
+
+### 📈 Rating vs Price (Scatter Plot)
+The scatter plot shows a **moderate positive relationship** between ratings and average cost.
+- Most restaurants fall between **3.5–4.5 ratings**
+- Average cost typically clusters around **₹300–₹600**
+- Darker points represent restaurants with more ratings (higher popularity)
+
+**Insight:**  
+Higher-rated restaurants generally charge higher prices, indicating perceived value and brand strength.
+
+---
+
+## 🧠 Key Takeaways
+- Indian cuisine dominates Bangalore’s food market
+- Pricing is strongly linked to restaurant type
+- Online delivery is preferred over dine-in
+- Most restaurants operate in a competitive mid-rating range
+- Higher ratings often come with higher prices
+
+---
+
+## 🔗 Live Dashboard
+👉 View the interactive Tableau dashboard here:  
+https://public.tableau.com/app/profile/chetan.raj8501/viz/Tableau_Group_17567159519720/Dashboard1
+
+---
+
+## 📌 Conclusion
+This Tableau dashboard demonstrates how **data visualization can support entrepreneurial decision-making**.  
+By analysing cuisine demand, pricing structures, and customer behaviour, the project highlights actionable insights for launching and scaling food businesses in Bangalore.
+
+---
+
+## 👤 Author
+**Chetan Raj**  
+Data Analytics Student  
+TISS Mumbai
