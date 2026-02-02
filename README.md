@@ -89,8 +89,6 @@ Each dashboard folder contains:
 Data Analytics & Sustainability Studies  
 TISS Mumbai  
 
-GitHub: https://github.com/ChetanRaj13
-
 ---
 
 ## 📌 Note
